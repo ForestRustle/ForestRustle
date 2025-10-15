@@ -24,6 +24,18 @@
 - :zap: In my free time, I study something new in IT.
 
 - :mailbox:How to reach me: <a href="https://t.me/forest_rustle" tardet=_blank>Telegram</a>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40 height=40/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40 height=40/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height=40/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=40 height=40/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40 height=40/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40/>&nbsp;
 <!--
 **ForestRustle/ForestRustle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
