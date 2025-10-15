@@ -1,12 +1,29 @@
 <!--## Hi there 👋-->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDloeTlnd2lqNXhtYnRua3hhZ3lpOXkzOWZsc3oxejdhNWhtODdmaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
-<img src="https://komarev.com/ghpvc/?username=ForestRustle&style=flat-square&color=blue" alt="picture" align="center"/>
 </div>
-<h1>
+<div align="center">
+  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://komarev.com/ghpvc/?username=ForestRustle&style=flat-square&color=blue" alt="picture" align="center"/>
 </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me : I am a Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: I try to devote time to solving technical problems on CodeWars.
+
+- :zap: In my free time, I study something new in IT.
+
+- :mailbox:How to reach me: [Telegram](https://t.me/@forest_rustle)
 <!--
 **ForestRustle/ForestRustle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
