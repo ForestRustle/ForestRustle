@@ -1,8 +1,12 @@
 <!--## Hi there 👋-->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDloeTlnd2lqNXhtYnRua3hhZ3lpOXkzOWZsc3oxejdhNWhtODdmaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
-</div>
 <img src="https://komarev.com/ghpvc/?username=ForestRustle&style=flat-square&color=blue" alt="picture" align="center"/>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **ForestRustle/ForestRustle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
