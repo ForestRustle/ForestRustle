@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I study something new in IT.
 
-- :mailbox:How to reach me: [Telegram](https://t.me/@forest_rustle)
+- :mailbox:How to reach me: <a href="https://t.me/forest_rustle" tardet=_blank>Telegram</a>
 <!--
 **ForestRustle/ForestRustle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
